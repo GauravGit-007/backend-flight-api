@@ -1,5 +1,5 @@
 from flask import Blueprint, jsonify, request
-from aviation_api import fetch_flight_data, process_flight_data
+from aviation_api import fetch_flight_data,
 
 from collections import defaultdict
 from datetime import datetime
